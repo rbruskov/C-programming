@@ -1,0 +1,16 @@
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\bin\Debug\net6.0\Example001_hello world.exe
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\bin\Debug\net6.0\Example001_hello world.deps.json
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\bin\Debug\net6.0\Example001_hello world.runtimeconfig.json
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\bin\Debug\net6.0\Example001_hello world.dll
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\bin\Debug\net6.0\ref\Example001_hello world.dll
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\bin\Debug\net6.0\Example001_hello world.pdb
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.GlobalUsings.g.cs
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.dll
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\ref\Example001_hello world.dll
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.pdb
+C:\Users\Ruslan\Desktop\СИШАРП\Example001_hello world\obj\Debug\net6.0\Example001_hello world.genruntimeconfig.cache
